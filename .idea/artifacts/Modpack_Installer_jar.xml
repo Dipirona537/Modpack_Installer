@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Modpack Installer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Modpack_Installer_jar</output-path>
+    <root id="archive" name="Modpack Installer.jar">
+      <element id="module-output" name="Modpack Installer" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/dipirona/modpackinstaller/wget.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/dipirona/modpackinstaller/download_mods.java" />
+    </root>
+  </artifact>
+</component>
